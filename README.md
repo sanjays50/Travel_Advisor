@@ -5,7 +5,7 @@
 
 
 ## Deployment
-- For Live Demo visit
+- For Live Demo visit.
 
 [https://traveladvisorworld.netlify.app](https://traveladvisorworld.netlify.app)
 ## Demo
