@@ -1,7 +1,7 @@
 
 # Travel Advisor 
 
-- React application that effectively showcases nearby hotels, restaurants, and other attractions on Google Maps based on the user's location.
+- React application that seamlessly connects users with their surroundings, displaying a curated selection of nearby hotels, restaurants, and captivating attractions, all ingeniously plotted on Google Maps according to the user's precise location. This user-friendly app not only simplifies exploration but also enriches the experience by providing detailed information, reviews, and ratings for each location, helping users make informed decisions and creating memorable adventures with ease.
 
 
 ## Deployment
